@@ -48,7 +48,9 @@ nav{
     padding-top: 50px;
 }
 .third{
-
+    background-color: blueviolet;
+    height: 600px;
+    padding-top: 150px;
 }
 .container{
     background-color: orange;
@@ -62,7 +64,15 @@ nav{
     width: 100%;
     background-color: grey;
     height: 280px;
+    padding-top: 40px;
 }
-.col{
+.col_1{
     background-color: aqua;
+    width: 60%;
+    height: 200px;  
+}
+.col_2{
+    background-color: aqua;
+    width: 40%;
+    height: 200px;  
 }
