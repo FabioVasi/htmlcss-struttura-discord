@@ -39,18 +39,29 @@ nav{
 }
 .first{
     background-color: yellow;
+    height: 400px;
+    padding-top: 50px;
 }
 .second{
     background: green;
+    height: 400px;
+    padding-top: 50px;
+}
+.third{
+
 }
 .container{
     background-color: orange;
-    height: ;
+    width: 80%;
+    height: 300px;
+    margin: auto;
+    padding-top: 10px;
 }
 .row{
     display: flex;
     width: 100%;
     background-color: grey;
+    height: 280px;
 }
 .col{
     background-color: aqua;
