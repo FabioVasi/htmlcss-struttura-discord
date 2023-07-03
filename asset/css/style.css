@@ -3,20 +3,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+.debug{
+    max-width: 1170px;
+    width: 80%;
+    margin: auto;
+}
 header{
     background-color: blue;
     height: 100px;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 nav{
-    max-width: 1170px;
-    width: 80%;
-    height: 80px;
+    height: 60px;
     background-color: red;
     display: flex;
     justify-content: space-around;
     align-items: center;
     font-size: 2rem;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 .head{
     background-color: rgb(0, 0, 128);
@@ -31,4 +36,22 @@ nav{
     background-color: brown;
     text-align: center;
     font-size: 1.5rem;
+}
+.first{
+    background-color: yellow;
+}
+.second{
+    background: green;
+}
+.container{
+    background-color: orange;
+    height: ;
+}
+.row{
+    display: flex;
+    width: 100%;
+    background-color: grey;
+}
+.col{
+    background-color: aqua;
 }
