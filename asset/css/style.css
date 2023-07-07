@@ -14,9 +14,20 @@ nav{
     margin: 0 auto;
     background-color: red;
     display: flex;
-    justify-content: space-around;
     align-items: center;
     font-size: 2rem;
+}
+.start{
+    width: 20%;
+    text-align: center;
+}
+.center{
+    width: 60%;
+    text-align: center;
+}
+.end{
+    width: 20%;
+    text-align: center;
 }
 .head{
     background-color: rgb(0, 0, 128);
